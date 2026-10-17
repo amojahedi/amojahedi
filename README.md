@@ -2,10 +2,6 @@
 
 Hey, I'm Aisan, a **technical product manager** who ships. I turn messy, ambiguous problems into products people actually use, where strategy meets hands-on building: OKRs and roadmaps on one side, SQL, BI dashboards, automations and working prototypes on the other. I've built products across fintech, e-commerce, Web3 and edtech, and I'm now doing an **MSc in Artificial Intelligence** at Heriot-Watt University in Dubai.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amojahedi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
 **How I work**
 
 Every product I ship comes with a PRD, a decision log and clear success metrics, because good products start with good problem framing.
