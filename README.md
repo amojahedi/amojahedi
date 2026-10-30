@@ -16,8 +16,8 @@ I start with the problem, write it down, then build. The projects below come wit
 
 <a href="https://github.com/amojahedi/inbox-ledger">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amojahedi/inbox-ledger/main/docs/screenshots/overview-dark.png">
-    <img src="https://raw.githubusercontent.com/amojahedi/inbox-ledger/main/docs/screenshots/overview-light.png" width="280" alt="Ledger overview: monthly total, category breakdown, daily spending, budgets and top merchants">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ledger-overview-dark.png">
+    <img src="assets/ledger-overview-light.png" width="280" alt="Ledger overview: monthly total and where the money went">
   </picture>
 </a>
 
@@ -42,16 +42,23 @@ A team machine-learning project that compares classic models with an MLP to pred
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Experience
 
-- **Product Advisor**, United Future · *2024 – 2026*: advised the founders on the analytics roadmap, helped replace manual reporting with one BI platform, and wrote requirements for a KPI dashboard (revenue, churn, fraud).
-- **Data Product Manager**, Asa (Agah Group) · *2023 – 2024*: worked on Investor360 (client investment volume up 12%) and helped merge 6 siloed pods into one team of 30 engineers.
-- **Product Manager**, Digikala / Digipay · *2022 – 2023*: wrote requirements to move Digikala's finance platform to Go, and worked with the Digipay BI team to get reports in 1 week instead of 3 months.
-- **Associate Product Manager**, In-House (New York, remote) · *2021 – 2022*: helped build the design system and UX fixes; our A/B-tested prototypes lifted beta engagement by about 25%.
-- **Co-founder & Product Designer**, Avistopia · *2019 – 2021*: designed a gamified math and computer science learning platform; we launched with three engineers and reached 3,000+ early users.
+<img src="assets/logos/united-future.png" alt="United Future" width="20" height="20" align="top">&nbsp;**Product Advisor**, United Future · *2024 – 2026*: advised the founders on the analytics roadmap, helped replace manual reporting with one BI platform, and wrote requirements for a KPI dashboard (revenue, churn, fraud).
+
+<img src="assets/logos/asa.png" alt="Asa" width="20" height="20" align="top">&nbsp;**Data Product Manager**, Asa (Agah Group) · *2023 – 2024*: worked on Investor360 (client investment volume up 12%) and helped merge 6 siloed pods into one team of 30 engineers.
+
+<img src="assets/logos/digikala.png" alt="Digikala" width="20" height="20" align="top">&nbsp;**Product Manager**, Digikala / Digipay · *2022 – 2023*: wrote requirements to move Digikala's finance platform to Go, and worked with the Digipay BI team to get reports in 1 week instead of 3 months.
+
+<img src="assets/logos/in-house.png" alt="In-House" width="20" height="20" align="top">&nbsp;**Associate Product Manager**, In-House (New York, remote) · *2021 – 2022*: helped build the design system and UX fixes; our A/B-tested prototypes lifted beta engagement by about 25%.
+
+<img src="assets/logos/avistopia.png" alt="Avistopia" width="20" height="20" align="top">&nbsp;**Co-founder & Product Designer**, Avistopia · *2019 – 2021*: designed a gamified math and computer science learning platform; we launched with three engineers and reached 3,000+ early users.
 
 **Education**
-- MSc Artificial Intelligence, Heriot-Watt University Dubai · *2026 – present* · merit scholarship
-- MSc Computer Science (coursework), Shahid Beheshti University · *2022 – 2023*
-- BSc Applied Mathematics, University of Tehran · *2017 – 2022*
+
+<img src="assets/logos/heriot-watt.png" alt="Heriot-Watt University" width="20" height="20" align="top">&nbsp;MSc Artificial Intelligence, Heriot-Watt University Dubai · *2026 – present* · merit scholarship
+
+<img src="assets/logos/shahid-beheshti.png" alt="Shahid Beheshti University" width="20" height="20" align="top">&nbsp;MSc Computer Science (coursework), Shahid Beheshti University · *2022 – 2023*
+
+<img src="assets/logos/university-of-tehran.png" alt="University of Tehran" width="20" height="20" align="top">&nbsp;BSc Applied Mathematics, University of Tehran · *2017 – 2022*
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> My Toolkit
 
