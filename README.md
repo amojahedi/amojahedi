@@ -107,17 +107,11 @@ A team machine-learning project that compares classic models with an MLP to pred
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Sports Medal" width="25" height="25" /> Certifications
 
-<a href="https://www.credly.com/badges/bdf24621-3990-4599-93d4-308e346c3baa/public_url"><img src="https://images.credly.com/size/110x110/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" alt="Professional Scrum Product Owner I (PSPO I)" width="96" height="96"></a>
-<a href="https://www.credly.com/badges/f3411a9f-7714-4754-8edc-bb1a701e0572/public_url"><img src="https://images.credly.com/size/110x110/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" alt="Professional Scrum Master I (PSM I)" width="96" height="96"></a>
-<a href="https://www.credly.com/badges/efbcd557-8868-48b2-8c95-84132e34520e/public_url"><img src="https://images.credly.com/size/110x110/images/83691e1f-fddf-45ce-b6a2-a28529838223/image.png" alt="Pendo Product Analytics Certification" width="96" height="96"></a>
-<a href="https://www.credly.com/badges/75905e20-0122-4889-8116-fc16fcf314d5/public_url"><img src="https://images.credly.com/size/110x110/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" alt="IBM Enterprise Design Thinking Practitioner" width="96" height="96"></a>
-
-[![CSPO](https://img.shields.io/badge/CSPO-Scrum%20Alliance-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://bcert.me/bc/html/show-badge.html?b=iwooesne)
-[![AI Product Leadership](https://img.shields.io/badge/AI%20Product%20Leadership-Reforge-1F1F1F?style=for-the-badge)](https://www.linkedin.com/in/aisan-mojahedi/details/certifications/)
-[![Product Strategy](https://img.shields.io/badge/Product%20Strategy%20(PSC)-Product%20School-5B3DF5?style=for-the-badge)](https://www.linkedin.com/in/aisan-mojahedi/details/certifications/)
-[![1 Million Prompters](https://img.shields.io/badge/1%20Million%20Prompters-Dubai%20Future%20Foundation-B8860B?style=for-the-badge)](https://omp.dub.ai/certificate/mnLkdWIsl9Vk)
-[![Intermediate SQL](https://img.shields.io/badge/Intermediate%20SQL-DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black)](https://www.datacamp.com/statement-of-accomplishment/course/cb1e205a30bbfdf7aad6f862f95578baae275c4e?share=true)
-[![Strategic Planning](https://img.shields.io/badge/Strategic%20Planning-LinkedIn%20Learning-0A66C2?style=for-the-badge)](https://www.linkedin.com/learning/certificates/3d9d5e8a8fe3b6728ec40e8caf1230b8c7894c26e1b905ccdfcaaa8bd298be6d/)
+<a href="https://www.credly.com/badges/efbcd557-8868-48b2-8c95-84132e34520e"><img src="assets/badges/pendo.png" alt="Product Analytics, Pendo" title="Product Analytics, Pendo" width="88" height="88"></a>&nbsp;
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/cb1e205a30bbfdf7aad6f862f95578baae275c4e"><img src="assets/badges/datacamp.png" alt="Intermediate SQL, DataCamp" title="Intermediate SQL, DataCamp" width="88" height="88"></a>&nbsp;
+<a href="https://bcert.me/bc/html/show-badge.html?b=iwooesne"><img src="assets/badges/cspo.png" alt="Certified Scrum Product Owner (CSPO), Scrum Alliance" title="Certified Scrum Product Owner (CSPO), Scrum Alliance" width="88" height="88"></a>&nbsp;
+<a href="https://www.scrum.org/user-profile/unique-id/11bc6575-7562-4c0d-a8ed-e99a42d5e619"><img src="assets/badges/pspo1.png" alt="Professional Scrum Product Owner I (PSPO I), Scrum.org" title="Professional Scrum Product Owner I (PSPO I), Scrum.org" width="88" height="88"></a>&nbsp;
+<a href="https://www.scrum.org/user-profile/unique-id/11bc6575-7562-4c0d-a8ed-e99a42d5e619"><img src="assets/badges/psm1.png" alt="Professional Scrum Master I (PSM I), Scrum.org" title="Professional Scrum Master I (PSM I), Scrum.org" width="88" height="88"></a>&nbsp;
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Find Me Elsewhere
 
