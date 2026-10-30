@@ -17,7 +17,7 @@ I start with the problem, write it down, then build. The projects below come wit
 <a href="https://github.com/amojahedi/inbox-ledger">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amojahedi/inbox-ledger/main/docs/screenshots/overview-dark.png">
-    <img src="https://raw.githubusercontent.com/amojahedi/inbox-ledger/main/docs/screenshots/overview-light.png" width="720" alt="Ledger overview: monthly total, category breakdown, daily spending, budgets and top merchants">
+    <img src="https://raw.githubusercontent.com/amojahedi/inbox-ledger/main/docs/screenshots/overview-light.png" width="280" alt="Ledger overview: monthly total, category breakdown, daily spending, budgets and top merchants">
   </picture>
 </a>
 
