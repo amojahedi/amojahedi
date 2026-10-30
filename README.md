@@ -1,16 +1,30 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi there!
 
-Hey, I'm Aisan, a **technical product manager** who ships. I turn messy, ambiguous problems into products people actually use, where strategy meets hands-on building: OKRs and roadmaps on one side, SQL, BI dashboards, automations and working prototypes on the other. I've built products across fintech, e-commerce, Web3 and edtech, and I'm now doing an **MSc in Artificial Intelligence** at Heriot-Watt University in Dubai.
+Hey, I'm Aisan, a **technical product manager** for AI and data products. I went from math to design to product, and I still like building: OKRs and roadmaps on one side, SQL, BI dashboards and working prototypes on the other. I'm now doing an **MSc in Artificial Intelligence** at Heriot-Watt University in Dubai, and I build my side projects with Claude Code.
 
 **How I work**
 
-Every product I ship comes with a PRD, a decision log and clear success metrics, because good products start with good problem framing.
+I start with the problem, write it down, then build. The projects below come with the docs I'd write at work: a PRD or a clear "why", a decision log or design notes, and tests that run in CI.
 
 **Website**
 
 [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" />](https://aisanmojahedi.com)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Featured Project
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Featured Projects
+
+### [Ledger](https://github.com/amojahedi/inbox-ledger)
+
+<a href="https://github.com/amojahedi/inbox-ledger">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amojahedi/inbox-ledger/main/docs/screenshots/overview-dark.png">
+    <img src="https://raw.githubusercontent.com/amojahedi/inbox-ledger/main/docs/screenshots/overview-light.png" width="720" alt="Ledger overview: monthly total, category breakdown, daily spending, budgets and top merchants">
+  </picture>
+</a>
+
+Your bank already emails you every transaction. Ledger turns those alerts into a **private monthly budget on your own machine**: read-only Gmail, one small YAML profile per bank (UAE banks built in, no code to add a new one), no double counting of transfers between your own accounts, pay-later charges matched to the real store, and rules it learns from a single correction. Optional AI runs on your own Claude key and shows exactly what it will send first.
+
+- **Product thinking:** [Why it exists](https://github.com/amojahedi/inbox-ledger#why) · [How it works](https://github.com/amojahedi/inbox-ledger#how-it-works) · [Privacy](https://github.com/amojahedi/inbox-ledger#privacy)
+- **Built with:** Python, FastAPI, SQLite, vanilla JS with hand-drawn SVG charts
 
 ### [Growloop](https://github.com/amojahedi/growloop)
 
@@ -28,17 +42,16 @@ A team machine-learning project that compares classic models with an MLP to pred
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Experience
 
-- **Product Manager**, United Future · *Sep 2024 – Jan 2026*: defined a Web3 gaming platform end to end, from wallets and KYC to a back office tracking 30+ KPIs, with a 40+ feature roadmap.
-- **Data Product Manager**, Agah Group · *2023 – 2024*: launched Investor360, a personalized Power BI product that drove ≈12% more customer investments.
-- **Product Manager**, Digikala (Digipay) · *2022 – 2023*: moved BI reporting from quarterly to daily for ≈10.6M e-wallet transactions.
-- **AI Product Manager (intern)**, Bitex · *2022*: launched an AI trading-bot MVP for retail users.
-- **Associate Product Manager**, in-House (NY, remote) · *2021 – 2022*: A/B-tested prototypes that lifted engagement by 25%.
-- **Co-founder & UX Designer**, Avistopia · *2019 – 2021*: built a gamified edtech platform with 3K+ early users.
+- **Product Advisor**, United Future · *2024 – 2026*: advised the founders on the analytics roadmap, helped replace manual reporting with one BI platform, and wrote requirements for a KPI dashboard (revenue, churn, fraud).
+- **Data Product Manager**, Asa (Agah Group) · *2023 – 2024*: worked on Investor360 (client investment volume up 12%) and helped merge 6 siloed pods into one team of 30 engineers.
+- **Product Manager**, Digikala / Digipay · *2022 – 2023*: wrote requirements to move Digikala's finance platform to Go, and worked with the Digipay BI team to get reports in 1 week instead of 3 months.
+- **Associate Product Manager**, In-House (New York, remote) · *2021 – 2022*: helped build the design system and UX fixes; our A/B-tested prototypes lifted beta engagement by about 25%.
+- **Co-founder & Product Designer**, Avistopia · *2019 – 2021*: designed a gamified math and computer science learning platform; we launched with three engineers and reached 3,000+ early users.
 
 **Education**
-- M.Sc. Artificial Intelligence, Heriot-Watt University · *2026 – present* · merit scholarship
-- M.Sc. Computer Science, Shahid Beheshti University · *2022 – 2023*
-- B.Sc. Applied Mathematics, University of Tehran · *2017 – 2022*
+- MSc Artificial Intelligence, Heriot-Watt University Dubai · *2026 – present* · merit scholarship
+- MSc Computer Science (coursework), Shahid Beheshti University · *2022 – 2023*
+- BSc Applied Mathematics, University of Tehran · *2017 – 2022*
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> My Toolkit
 
@@ -73,7 +86,8 @@ A team machine-learning project that compares classic models with an MLP to pred
 **Automation & AI**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![AI Tools](https://img.shields.io/badge/AI%20Tools-412991?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 **Build**
 
@@ -81,6 +95,8 @@ A team machine-learning project that compares classic models with an MLP to pred
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Sports Medal" width="25" height="25" /> Certifications
 
